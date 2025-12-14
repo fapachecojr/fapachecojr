@@ -32,6 +32,7 @@ Experiência em liderança técnica, integração de sistemas legados, seguranç
 🔹 **Portais Institucionais Governamentais**  
 🔹 **Integrações com APIs (Google Maps, Pagamentos, NF-e)**  
 🔹 **Automação Comercial e Sistemas Corporativos**
+🔹 **Sistema de Gestão Hospitalar (Consulta OnLine, Painés Eletrônicos, Protuário, Internações/AIH, Convênios e Integrações)**
 
 ---
 
