@@ -8,7 +8,7 @@ Experiência em liderança técnica, integração de sistemas legados, seguranç
 ---
 
 ## 🚀 Principais Especialidades
-- Desenvolvimento Back-end em PHP (Laravel, Joomla, Zend)
+- Desenvolvimento Back-end em PHP (Laravel, Joomla, Wordpress, Slim, CodeIgniter, Symfony, CodeIgniter, Zend)
 - Integração de sistemas e migração de dados
 - Criação e consumo de APIs REST
 - Docker, Git e pipelines de deploy
