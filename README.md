@@ -20,11 +20,11 @@ Experiência em liderança técnica, integração de sistemas legados, seguranç
 
 ## 🛠️ Tecnologias
 **Linguagens:** PHP, JavaScript, Python, Java  
-**Frameworks:** 
-  PHP: Laravel, Joomla, Zend, Lumen  
-  JavaScript: Node.js, Vue.js, Next.js, React
-  Python: Django, Flask
-  Java: Spring Framework, Spring Boot, Spring Data JPA (Hibernate), Spring Security
+**Frameworks:**
+  - PHP: Laravel, Joomla, Zend, Lumen  
+  - JavaScript: Node.js, Vue.js, Next.js, React
+  - Python: Django, Flask
+  - Java: Spring Framework, Spring Boot, Spring Data JPA (Hibernate), Spring Security
 **Banco de Dados:** MySQL, SQL Server, PostgreSQL, MongoDB  
 **DevOps:** Docker, Git, GitLab, Linux  
 **Cloud:** AWS, Azure, Google Cloud  
