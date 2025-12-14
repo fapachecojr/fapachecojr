@@ -20,7 +20,11 @@ Experiência em liderança técnica, integração de sistemas legados, seguranç
 
 ## 🛠️ Tecnologias
 **Linguagens:** PHP, JavaScript, Python, Java  
-**Frameworks:** Laravel, Joomla, Zend, Lumen, Node.js, Vue.js  
+**Frameworks:** 
+  PHP: Laravel, Joomla, Zend, Lumen  
+  JavaScript: Node.js, Vue.js, Next.js, React
+  Python: Django, Flask
+  Java: Spring Framework, Spring Boot, Spring Data JPA (Hibernate), Spring Security
 **Banco de Dados:** MySQL, SQL Server, PostgreSQL, MongoDB  
 **DevOps:** Docker, Git, GitLab, Linux  
 **Cloud:** AWS, Azure, Google Cloud  
@@ -33,6 +37,16 @@ Experiência em liderança técnica, integração de sistemas legados, seguranç
 🔹 **Integrações com APIs (Google Maps, Pagamentos, NF-e)**  
 🔹 **Automação Comercial e Sistemas Corporativos**
 🔹 **Sistema de Gestão Hospitalar (Consulta OnLine, Painés Eletrônicos, Protuário, Internações/AIH, Convênios e Integrações)**
+
+---
+
+### 🔐 📚 Segurança e Formação Complementar
+
+**Pós-Graduação em Java (em andamento)**  
+Pós-graduação em Java Elite com certificação reconhecida pelo MEC — foco em desenvolvimento avançado Java, arquitetura de microsserviços, Spring Boot, práticas de engenharia de software modernas, qualidade de código e aplicações de grande escala. Essa formação amplia meu escopo técnico e fortalece minha atuação em soluções corporativas robustas.
+
+**Formação Hackers do Bem — Cibersegurança (em andamento)**  
+Iniciativa nacional voltada à capacitação em segurança da informação, com foco em proteção de sistemas, boas práticas de segurança, defesa (Blue Team), ataque (Red Team) e ambientes críticos, complementando minha atuação em sistemas corporativos e governamentais.
 
 ---
 
