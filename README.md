@@ -1,74 +1,123 @@
 # 👋 Olá, eu sou Francisco Júnior
 
-💻 Desenvolvedor PHP Sênior com mais de 15 anos de experiência em sistemas web corporativos e governamentais.
+💻 **Desenvolvedor Sênior Back-end / Full Stack**  
+Com mais de **15 anos de experiência** no desenvolvimento, modernização e integração de **sistemas web corporativos e governamentais**.
 
-Atuo no desenvolvimento, modernização e integração de sistemas críticos, com foco em **PHP, Laravel, APIs REST, Docker e Cloud**.  
-Experiência em liderança técnica, integração de sistemas legados, segurança de aplicações e atuação em equipe **Blue Team**.
+Atuo na construção de **sistemas críticos, escaláveis e seguros**, com foco em **PHP, Java (Spring), APIs REST, Docker, Cloud e automação de deploy**.  
+Experiência em **arquitetura de software, liderança técnica, integração de sistemas legados, segurança de aplicações (Blue Team)** e infraestrutura.
 
 ---
 
-## 🚀 Principais Especialidades
-- Desenvolvimento Back-end em PHP (Laravel, Joomla, Wordpress, Slim, Flight, CodeIgniter, Symfony, CodeIgniter, Zend)
-- Integração de sistemas e migração de dados
-- Criação e consumo de APIs REST
-- Docker, Git e pipelines de deploy
+## 🚀 Áreas de Atuação
+- Desenvolvimento Back-end e APIs REST
+- Arquitetura de sistemas e microsserviços
+- Modernização de sistemas legados
+- Deploy automatizado e CI/CD
 - Administração de servidores Linux
 - Segurança de aplicações (Blue Team)
-- Sistemas governamentais e de grande escala
+- Sistemas corporativos, hospitalares e governamentais
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Principais Stacks
+
+### 🖥️ Back-end
+- **PHP:** Laravel, Joomla, WordPress, Slim, CodeIgniter, Zend, Lumen
+- **Java:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate)
+- **Node.js:** NestJS, Express
+
+### 🎨 Front-end
+- React.js
+- Next.js
+- Angular
+- Vue.js
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
 ### Linguagens
 - PHP
-- JavaScript
-- Python
 - Java
-
-### Frameworks & Bibliotecas
-- **PHP:** Laravel, Joomla, Zend, Lumen  
-- **Java:** Spring Framework, Spring Boot, Spring Data JPA (Hibernate), Spring Security  
-- **JavaScript:** Node.js, Vue.js, React, Next.js  
-- **Python:** Django, Flask  
+- JavaScript / TypeScript
+- Python
 
 ### Bancos de Dados
 - MySQL
-- SQL Server
 - PostgreSQL
+- SQL Server
 - MongoDB
 
 ### DevOps & Infraestrutura
 - Docker
-- Git
-- GitLab
-- Linux
+- Docker Compose
+- Portainer
+- Git / GitHub / GitLab
+- GitHub Actions
+- GitLab CI/CD
+- Linux (Ubuntu / Debian / CentOS)
+- ISPConfig
+- Nginx / Apache
+- SSL, DNS, Firewall, Backup e Monitoramento
 
-### Cloud
+### ☁️ Cloud
 - AWS
 - Azure
 - Google Cloud Platform (GCP)
 
 ---
 
-## 📌 Projetos em Destaque
-🔹 **Sistema de Gestão de Cursos (Laravel)**  
-🔹 **Portais Institucionais Governamentais**  
-🔹 **Integrações com APIs (Google Maps, Pagamentos, NF-e)**  
-🔹 **Automação Comercial e Sistemas Corporativos**
-🔹 **Sistema de Gestão Hospitalar (Consulta OnLine, Painés Eletrônicos, Protuário, Internações/AIH, Convênios e Integrações)**
+## 🔧 Experiência em Infraestrutura & Deploy
+
+- Montagem completa de ambientes **(desenvolvimento, homologação e produção)**
+- Deploy automatizado com **GitHub Actions e GitLab CI**
+- Containerização de aplicações **PHP, Java (Spring Boot), Node.js e Front-end**
+- Gerenciamento de containers com **Portainer**
+- Configuração de servidores Linux com **ISPConfig**
+- Publicação e manutenção de aplicações em cloud e servidores dedicados
+- Integrações seguras, controle de acessos e alta disponibilidade
 
 ---
 
-### 🔐 📚 Segurança e Formação Complementar
+## 📌 Projetos e Soluções Desenvolvidas
+- Sistemas de Gestão Corporativa (**Laravel / Spring Boot**)
+- Portais Institucionais Governamentais
+- Sistemas Hospitalares:
+  - Consulta Online
+  - Painéis Eletrônicos
+  - Prontuário Eletrônico
+  - Internações / AIH
+  - Convênios e Integrações
+- Integrações com APIs:
+  - Pagamentos
+  - NF-e
+  - Google Maps
+- Automação Comercial e Sistemas Corporativos
 
-**Pós-Graduação em Java (em andamento)**  
-Pós-graduação em Java Elite com certificação reconhecida pelo MEC — foco em desenvolvimento avançado Java, arquitetura de microsserviços, Spring Boot, práticas de engenharia de software modernas, qualidade de código e aplicações de grande escala. Essa formação amplia meu escopo técnico e fortalece minha atuação em soluções corporativas robustas.
+---
 
-**Formação Hackers do Bem — Cibersegurança (em andamento)**  
-Iniciativa nacional voltada à capacitação em segurança da informação, com foco em proteção de sistemas, boas práticas de segurança, defesa (Blue Team), ataque (Red Team) e ambientes críticos, complementando minha atuação em sistemas corporativos e governamentais.
+## 🔐 Segurança & Formação
+
+🎓 **Pós-Graduação em Java (em andamento)**  
+Foco em:
+- Spring Boot
+- Arquitetura de microsserviços
+- Qualidade de código
+- Aplicações corporativas de grande escala
+
+🛡️ **Hackers do Bem — Cibersegurança (em andamento)**  
+Formação voltada à:
+- Segurança da informação
+- Defesa de sistemas (Blue Team)
+- Fundamentos de Red Team
+- Ambientes críticos e governamentais
 
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/francisco-junior-32b52438/
-- Email: fapachecojr@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/francisco-junior-32b52438/
+- ✉️ Email: fapachecojr@gmail.com
+
+---
+
+⭐ **Perfil profissional com forte atuação prática**, visão arquitetural, domínio de infraestrutura, deploy automatizado e integração de tecnologias modernas com sistemas legados.
