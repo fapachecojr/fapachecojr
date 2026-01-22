@@ -1,10 +1,13 @@
 # 👋 Olá, eu sou Francisco Júnior
 
-💻 **Desenvolvedor Sênior Back-end / Full Stack**  
-Com mais de **15 anos de experiência** no desenvolvimento, sustentação, modernização e integração de **sistemas web corporativos, hospitalares e governamentais**.
+💻 **Desenvolvedor Sênior especializado em sistemas críticos, APIs e arquitetura moderna**  
+🚀 **PHP | Java Spring Boot | Docker | Cloud | CI/CD**
 
-Atuo fortemente em **PHP e Java**, com foco em **arquitetura de sistemas, APIs REST, microsserviços, containers, cloud e automação de deploy**.  
-Experiência sólida em **liderança técnica, integração de sistemas legados, infraestrutura Linux e segurança de aplicações (Blue Team)**.
+- +15 anos atuando em **sistemas corporativos, hospitalares e governamentais**
+- Forte experiência em **PHP e Java (Spring Boot)**
+- Especialista em **APIs REST, microsserviços e integração de sistemas legados**
+- Atuação sólida em **infraestrutura, Docker, CI/CD e servidores Linux**
+- Experiência em **segurança da informação (Blue Team)**
 
 ---
 
@@ -20,14 +23,14 @@ Experiência sólida em **liderança técnica, integração de sistemas legados,
 
 ---
 
-## 🧠 Principais Stacks
+## 🧠 Stacks Principais
 
-### 🖥️ Back-end
+### 🔥 Back-end & Arquitetura
 - **PHP:** Laravel, Joomla, WordPress, Slim, CodeIgniter, Zend, Lumen
 - **Java:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA (Hibernate)
 - **Node.js:** NestJS, Express
 
-### 🎨 Front-end
+### ⚡ Front-end Moderno
 - React.js
 - Next.js
 - Angular
@@ -49,9 +52,8 @@ Experiência sólida em **liderança técnica, integração de sistemas legados,
 - SQL Server
 - MongoDB
 
-### DevOps & Infraestrutura
-- Docker
-- Docker Compose
+### 🐳 DevOps & Infraestrutura
+- Docker & Docker Compose
 - Portainer
 - Git / GitHub / GitLab
 - GitHub Actions
@@ -69,15 +71,12 @@ Experiência sólida em **liderança técnica, integração de sistemas legados,
 ---
 
 ## 🎓 Formação Acadêmica
-
+- **Graduação em Sistemas de Informação**
+- **Pós-Graduação em Docência Universitária**
 - **Pós-Graduação em Java (em andamento)**  
-  Ênfase em desenvolvimento Java avançado, **Spring Boot**, microsserviços, arquitetura de software, qualidade de código e aplicações corporativas de grande escala.
-
+  Foco em Spring Boot, microsserviços, arquitetura de software, qualidade de código e aplicações corporativas de grande escala.
 - **Formação Hackers do Bem — Cibersegurança (em andamento)**  
-  Capacitação nacional voltada à **segurança da informação**, Blue Team, fundamentos de Red Team, proteção de sistemas e ambientes críticos.
-
-- **Graduação em Sistemas de Informação**  
-  Formação sólida em desenvolvimento de software, banco de dados, engenharia de software e infraestrutura.
+  Capacitação em segurança da informação, Blue Team, fundamentos de Red Team e ambientes críticos.
 
 ---
 
@@ -136,8 +135,7 @@ Desenvolvimento de soluções corporativas sob medida:
 ---
 
 ## 🔧 Experiência em Infraestrutura & Deploy
-
-- Montagem completa de ambientes **(dev, homologação e produção)**
+- Montagem completa de ambientes (**desenvolvimento, homologação e produção**)
 - Deploy automatizado com **GitHub Actions e GitLab CI**
 - Containerização de aplicações **PHP, Java (Spring Boot), Node.js e Front-end**
 - Gerenciamento de containers com **Portainer**
@@ -162,4 +160,4 @@ Desenvolvimento de soluções corporativas sob medida:
 
 ---
 
-⭐ Desenvolvedor com forte perfil **mão na massa**, visão arquitetural, experiência real em **ambientes críticos**, integração de tecnologias modernas com sistemas legados, infraestrutura e deploy automatizado.
+⭐ Desenvolvedor com perfil **mão na massa**, visão arquitetural e experiência real em **ambientes críticos**, unindo **código, infraestrutura, segurança e deploy automatizado**.
