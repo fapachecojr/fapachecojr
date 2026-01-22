@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Francisco Júnior
 
-💻 **Desenvolvedor Sênior especializado em sistemas críticos, APIs e arquitetura moderna**  
-🚀 **PHP | Java Spring Boot | Docker | Cloud | CI/CD**
+Construo e mantenho **APIs e sistemas críticos de alta disponibilidade**, atuando desde o código até a infraestrutura e o deploy.
 
 - +15 anos atuando em **sistemas corporativos, hospitalares e governamentais**
 - Forte experiência em **PHP e Java (Spring Boot)**
