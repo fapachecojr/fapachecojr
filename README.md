@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Francisco Júnior
 
 💻 **Desenvolvedor Sênior Back-end / Full Stack**  
-Com mais de **15 anos de experiência** no desenvolvimento, modernização e integração de **sistemas web corporativos e governamentais**.
+Com mais de **15 anos de experiência** no desenvolvimento, sustentação, modernização e integração de **sistemas web corporativos, hospitalares e governamentais**.
 
-Atuo na construção de **sistemas críticos, escaláveis e seguros**, com foco em **PHP, Java (Spring), APIs REST, Docker, Cloud e automação de deploy**.  
-Experiência em **arquitetura de software, liderança técnica, integração de sistemas legados, segurança de aplicações (Blue Team)** e infraestrutura.
+Atuo fortemente em **PHP e Java**, com foco em **arquitetura de sistemas, APIs REST, microsserviços, containers, cloud e automação de deploy**.  
+Experiência sólida em **liderança técnica, integração de sistemas legados, infraestrutura Linux e segurança de aplicações (Blue Team)**.
 
 ---
 
@@ -12,9 +12,10 @@ Experiência em **arquitetura de software, liderança técnica, integração de 
 - Desenvolvimento Back-end e APIs REST
 - Arquitetura de sistemas e microsserviços
 - Modernização de sistemas legados
-- Deploy automatizado e CI/CD
+- Integração entre plataformas e migração de dados
+- Deploy automatizado (CI/CD)
 - Administração de servidores Linux
-- Segurança de aplicações (Blue Team)
+- Segurança da informação (Blue Team)
 - Sistemas corporativos, hospitalares e governamentais
 
 ---
@@ -67,50 +68,91 @@ Experiência em **arquitetura de software, liderança técnica, integração de 
 
 ---
 
+## 🎓 Formação Acadêmica
+
+- **Pós-Graduação em Java (em andamento)**  
+  Ênfase em desenvolvimento Java avançado, **Spring Boot**, microsserviços, arquitetura de software, qualidade de código e aplicações corporativas de grande escala.
+
+- **Formação Hackers do Bem — Cibersegurança (em andamento)**  
+  Capacitação nacional voltada à **segurança da informação**, Blue Team, fundamentos de Red Team, proteção de sistemas e ambientes críticos.
+
+- **Graduação em Sistemas de Informação**  
+  Formação sólida em desenvolvimento de software, banco de dados, engenharia de software e infraestrutura.
+
+---
+
+## 📌 Projetos e Sistemas Desenvolvidos
+
+### 🏥 Sistema de Gestão Hospitalar
+Atuação no desenvolvimento e evolução de sistema hospitalar completo, incluindo:
+- Consulta Online
+- Painéis Eletrônicos
+- Prontuário Eletrônico
+- Internações / AIH
+- Convênios
+- Integrações com sistemas externos
+
+**Tecnologias:** PHP, Laravel, MySQL, APIs REST, Linux
+
+---
+
+### 🏛️ Portais e Sistemas Governamentais
+Desenvolvimento e manutenção de portais institucionais e sistemas internos para órgãos públicos:
+- Sistemas administrativos
+- Portais de conteúdo e serviços
+- Integrações entre sistemas legados
+
+**Tecnologias:** PHP, Joomla, WordPress, Laravel, MySQL, Linux
+
+---
+
+### 🎓 Sistema de Gestão de Cursos
+Sistema web para controle acadêmico e administrativo:
+- Cadastro de cursos, turmas e alunos
+- Controle de matrículas
+- Relatórios gerenciais
+
+**Tecnologias:** Laravel, MySQL, Docker
+
+---
+
+### 🔗 Integrações com APIs
+Implementação de integrações com serviços externos:
+- Google Maps
+- Pagamentos
+- NF-e
+- Sistemas internos e legados
+
+**Tecnologias:** PHP, Java, APIs REST
+
+---
+
+### 🏢 Sistemas Corporativos e Automação Comercial
+Desenvolvimento de soluções corporativas sob medida:
+- Automação de processos
+- Sistemas administrativos
+- Integrações entre módulos e plataformas
+
+---
+
 ## 🔧 Experiência em Infraestrutura & Deploy
 
-- Montagem completa de ambientes **(desenvolvimento, homologação e produção)**
+- Montagem completa de ambientes **(dev, homologação e produção)**
 - Deploy automatizado com **GitHub Actions e GitLab CI**
 - Containerização de aplicações **PHP, Java (Spring Boot), Node.js e Front-end**
 - Gerenciamento de containers com **Portainer**
 - Configuração de servidores Linux com **ISPConfig**
-- Publicação e manutenção de aplicações em cloud e servidores dedicados
-- Integrações seguras, controle de acessos e alta disponibilidade
+- Publicação de aplicações em cloud e servidores dedicados
+- Monitoramento, segurança e alta disponibilidade
 
 ---
 
-## 📌 Projetos e Soluções Desenvolvidas
-- Sistemas de Gestão Corporativa (**Laravel / Spring Boot**)
-- Portais Institucionais Governamentais
-- Sistemas Hospitalares:
-  - Consulta Online
-  - Painéis Eletrônicos
-  - Prontuário Eletrônico
-  - Internações / AIH
-  - Convênios e Integrações
-- Integrações com APIs:
-  - Pagamentos
-  - NF-e
-  - Google Maps
-- Automação Comercial e Sistemas Corporativos
-
----
-
-## 🔐 Segurança & Formação
-
-🎓 **Pós-Graduação em Java (em andamento)**  
-Foco em:
-- Spring Boot
-- Arquitetura de microsserviços
-- Qualidade de código
-- Aplicações corporativas de grande escala
-
-🛡️ **Hackers do Bem — Cibersegurança (em andamento)**  
-Formação voltada à:
-- Segurança da informação
-- Defesa de sistemas (Blue Team)
-- Fundamentos de Red Team
-- Ambientes críticos e governamentais
+## 🔐 Segurança da Informação
+- Atuação em **Blue Team**
+- Aplicação de boas práticas de segurança
+- Hardening de servidores Linux
+- Controle de acessos e proteção de APIs
+- Correção de vulnerabilidades em sistemas legados
 
 ---
 
@@ -120,4 +162,4 @@ Formação voltada à:
 
 ---
 
-⭐ **Perfil profissional com forte atuação prática**, visão arquitetural, domínio de infraestrutura, deploy automatizado e integração de tecnologias modernas com sistemas legados.
+⭐ Desenvolvedor com forte perfil **mão na massa**, visão arquitetural, experiência real em **ambientes críticos**, integração de tecnologias modernas com sistemas legados, infraestrutura e deploy automatizado.
